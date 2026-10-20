@@ -27,10 +27,7 @@ st_autorefresh(
 DB_FILE = "data.json"
 ROUND_TIME = 30
 
-try:
-    BASE_URL = st.secrets["BASE_URL"]
-except Exception:
-    BASE_URL = os.environ.get("BASE_URL", "http://localhost:8501")
+BASE_URL = "https://project-telephone.streamlit.app"
 
 BASE_URL = BASE_URL.rstrip("/")
 
@@ -306,7 +303,7 @@ Toda falha crítica deve ser registrada em log.
                     players
                 )
 
-                target_size = 7
+                target_size = 7 #trocar participantes
 
                 chain_count = max(
                     1,
