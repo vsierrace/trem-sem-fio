@@ -15,7 +15,7 @@ from io import BytesIO
 # =====================================
 
 st.set_page_config(
-    page_title="Project Telephone",
+    page_title="Trem sem fio",
     layout="wide"
 )
 
@@ -25,7 +25,7 @@ st_autorefresh(
 )
 
 DB_FILE = "data.json"
-ROUND_TIME = 15
+ROUND_TIME = 30
 
 BASE_URL = "https://project-telephone.streamlit.app"
 
