@@ -186,6 +186,7 @@ O apartamento conta com 95 metros totais. Tem orientação nordeste com vista pa
 A corticeira é uma árvore originária da América do Sul. Esta árvore pode chegar a medir entre 5 e 10 metros de altura. Em algumas ocasiões, foram encontradas árvores de corticeira de até 20 metros.
 O cachorro da Júlia é de porte pequeno de cor preta. É da raça Pug. Tem todas as vacinas tomadas. Chama-se Trovão e tem 14 anos. É muito obediente, embora já esteja um pouco surdo.
 A professora de geografia se chama Ana Maria e tem 35 anos. Tem olhos castanhos e seu cabelo é preto e curto. Usa óculos para ver de perto e carrega sempre dois livros em uma bolsa vermelha com alças.
+"""
     )
 
     if st.button("Criar Sala"):
