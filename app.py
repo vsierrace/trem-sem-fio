@@ -27,7 +27,7 @@ st_autorefresh(
 DB_FILE = "data.json"
 ROUND_TIME = 30
 
-BASE_URL = "https://project-telephone.streamlit.app"
+BASE_URL = "https://trem-sem-fio.streamlit.app"
 
 BASE_URL = BASE_URL.rstrip("/")
 
