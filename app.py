@@ -25,7 +25,7 @@ st_autorefresh(
 )
 
 DB_FILE = "data.json"
-ROUND_TIME = 30
+ROUND_TIME = 15
 
 BASE_URL = "https://project-telephone.streamlit.app"
 
