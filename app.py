@@ -167,7 +167,7 @@ mode = st.sidebar.selectbox(
     )
 )
 
-st.title("📞 Project Telephone")
+st.title("📞 Trem sem fio")
 
 # =====================================
 # HOST
