@@ -180,12 +180,12 @@ if mode == "Host":
     requirements_text = st.text_area(
         "Requisitos (1 por linha)",
         value="""
-O sistema deverá detectar perda de comunicação em até 2 segundos e entrar em modo seguro.
-Toda falha crítica deve gerar alarme em até 3 segundos.
-Toda configuração deve ser rastreável.
-A disponibilidade deverá ser superior a 99,5%.
-Toda falha crítica deve ser registrada em log.
-"""
+A Holanda é um país de 17 milhões de habitantes. Faz parte da União Europeia e a sua capital é Amsterdã, embora sua monarquia estejam localizados em Haia. É um dos países com maior densidade populacional do mundo.
+As cactáceas são plantas da família das suculentas. São originárias da América, mas também são encontradas na África. Em seu interior, elas contêm grande fluxo de babosa como reserva de líquido.
+O apartamento conta com 95 metros totais. Tem orientação nordeste com vista para o jardim principal do edifício. Tem quatro quartos, sala de estar, mesa para tomar o café da manhã e garagem coberta.
+A corticeira é uma árvore originária da América do Sul. Esta árvore pode chegar a medir entre 5 e 10 metros de altura. Em algumas ocasiões, foram encontradas árvores de corticeira de até 20 metros.
+O cachorro da Júlia é de porte pequeno de cor preta. É da raça Pug. Tem todas as vacinas tomadas. Chama-se Trovão e tem 14 anos. É muito obediente, embora já esteja um pouco surdo.
+A professora de geografia se chama Ana Maria e tem 35 anos. Tem olhos castanhos e seu cabelo é preto e curto. Usa óculos para ver de perto e carrega sempre dois livros em uma bolsa vermelha com alças.
     )
 
     if st.button("Criar Sala"):
