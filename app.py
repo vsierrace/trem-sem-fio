@@ -304,7 +304,7 @@ A professora de geografia se chama Ana Maria e tem 35 anos. Tem olhos castanhos 
                     players
                 )
 
-                target_size = 7 #trocar participantes
+                target_size = 5 #trocar participantes
 
                 chain_count = max(
                     1,
